@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "stream one",
+      "description": "First stream",
+      "userId": "101326588514400715559",
+      "id": 16
+    },
+    {
+      "title": "stream 2",
+      "description": "2nd one",
+      "userId": "101326588514400715559",
+      "id": 17
+    }
+  ]
+}
